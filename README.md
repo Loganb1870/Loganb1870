@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loganb1870
 - 👀 I’m interested in C++ anything IT and Data Analytics
 - 🌱 I’m currently learning C++ 
-- 💞️ I’m looking to collaborate on Any Small Projects
+- 💞️ I’m looking to collaborate on Any Small Projects as well as find a intership position or any entry level positions.
 - 📫 How to reach me loganb1870@gmail.com
 
 <!---
